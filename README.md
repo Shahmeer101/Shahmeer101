@@ -6,10 +6,10 @@
 - 📫 How to reach me **codeforintern@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.facebook.com/profile.php?id=100013305993266" target="_blank"><img align="center" src="https://www.freeiconspng.com/uploads/facebook-logo-3.png" alt="rashidyousufza3" height="30" width="40" /></a>
-<a href="https://twitter.com/rashidyousufza3" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rashidyousufza3" height="30" width="40" /></a>
-<a href="https://instagram.com/rashid.yousufzai" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rashid.yousufzai" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/rashid-yousufzai-4945a2246/" target="_blank"><img align="center" src="https://www.freeiconspng.com/uploads/linkedin-logo-3.png"  alt="rashid.yousufzai" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100013305993266" target="_blank"><img align="center" src="https://www.freeiconspng.com/uploads/facebook-logo-3.png" alt="" height="30" width="40" /></a>
+<a href="" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rashidyousufza3" height="30" width="40" /></a>
+<a href="" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rashid.yousufzai" height="30" width="40" /></a>
+<a href="" target="_blank"><img align="center" src="https://www.freeiconspng.com/uploads/linkedin-logo-3.png"  alt="" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
